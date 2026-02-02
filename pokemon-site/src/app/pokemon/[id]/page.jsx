@@ -1,3 +1,5 @@
+export const runtime = "nodejs";
+
 import { db } from "../../../lib/firebaseAdmin";
 import Link from "next/link";
 
